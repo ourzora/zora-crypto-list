@@ -1,4 +1,4 @@
-# Zora Crypto Resource List
+# Zora Resource List
 
 A list of helpful resources that makes learning about crypto easy 🌜🌞🌛.
 
