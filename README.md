@@ -11,9 +11,9 @@ A list of helpful resources that makes learning about crypto easy 🌜🌞🌛.
 - [Crypto Media](#crypto-media)
 - [Educators on Twitter](#educators-on-twitter)
 - [Layer 2](#layer-2)
+- [Recommended Books](#recommended-books)
 - [Stats Websites](#stats-websites)
 - [Advanced Stats](#advanced-stats)
-- [Recommended Books](#recommended-books)
 
 ## General Crypto
 
@@ -97,11 +97,20 @@ Layer 2 is the future of scaling Ethereum. This section covers what they are and
 - [How to buy Layer 2 NFTs](https://mirror.xyz/damu.eth/OV5kIathB1AcLFbwG-8kxSUJqXXxqSSJule-jIl43DA)
 - [Rollups Explained](https://www.youtube.com/watch?v=7pWxCklcNsU) (Rollups are the most common type of L2)
 
+## Recommended Books
+
+While not all directly crypto related, these books will give a strong foundation to help understand what is happening in crypto today.
+
+- [The Internet of Money](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/1537000454)
+- [How the Internet Happened](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078)
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook#mastering-ethereum)
+- [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-Lessons-Happiness/dp/B08D9WJ9G8)
+- [Debt: The First 5,000 Years](https://www.amazon.com/Debt-Updated-and-Expanded-audiobook/dp/B015F0BBFW)
+
 ## Stats Websites
 
-Great websites that provided detailed information about what is happening in crypto.
+Detailed information about what is happening in crypto.
 
-- [Azuki Collection Stats](https://dune.com/Cryptano/AZUKI-Overview)
 - [ETH Supply](https://ultrasound.money/)
 - [Gas Tracker](https://www.blocknative.com/gas-estimator)
 - [Crypto Protocol Fees](https://cryptofees.info/)
@@ -115,13 +124,3 @@ Great websites that provided detailed information about what is happening in cry
 - [Staker Data](https://www.rated.network/?network=mainnet&view=entity)
 - [Client Distribution](https://clientdiversity.org/#distribution)
 - [MEV Boost](https://mevboost.pics/)
-
-## Recommended Books
-
-While not all directly crypto related, these books will give a strong foundation to help understand what is happening in crypto today.
-
-- [The Internet of Money](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/1537000454)
-- [How the Internet Happened](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078)
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook#mastering-ethereum)
-- [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-Lessons-Happiness/dp/B08D9WJ9G8)
-- [Debt: The First 5,000 Years](https://www.amazon.com/Debt-Updated-and-Expanded-audiobook/dp/B015F0BBFW)
