@@ -13,7 +13,6 @@ A list of helpful resources that makes learning about crypto easy 🌜🌞🌛.
 - [Layer 2](#layer-2)
 - [Recommended Books](#recommended-books)
 - [Stats Websites](#stats-websites)
-- [Advanced Stats](#advanced-stats)
 
 ## General Crypto
 
@@ -21,12 +20,11 @@ Foundational knowledge on what Ethereum is and how it works.
 
 - [What is a Blockchain](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - [What is a Smart Contract](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
+- [The Crypto Renaissance](https://www.youtube.com/watch?v=karddOiv4ZA)
 - [Blockchain Visualizer](https://andersbrownworth.com/blockchain/)
 - [ERC-20 Tokens Explained](https://github.com/ethhub-io/ethhub/blob/master/docs/guides/a-straightforward-guide-erc20-tokens.md)
 - [Viewing a Transaction on Etherscan](https://github.com/ethhub-io/ethhub/blob/master/docs/guides/deciphering-a-transaction-on-etherscan.md)
 - [Ethereum Glossary](https://ethereum.org/en/glossary/)
-- [The Crypto Renaissance](https://www.youtube.com/watch?v=karddOiv4ZA)
-- [What is MEV - Advanced Resource](https://www.paradigm.xyz/2021/02/mev-and-me)
 
 ## Wallets
 
@@ -39,7 +37,6 @@ Beginner material on how to store your crypto and NFTs.
 - [What is a Seed Phrase/Recovery Phrase 2](https://www.nerdwallet.com/article/investing/seed-phrase)
 - [Hot vs Cold Wallet](https://www.nerdwallet.com/article/investing/hot-wallet-vs-cold-wallet)
 - [Wallets - Advanced Resource](https://github.com/ethereumbook/ethereumbook/blob/develop/05wallets.asciidoc)
-- [Transactions - Advanced Resource](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc)
 
 ## NFT Basics
 
@@ -48,8 +45,8 @@ Introduction information for Non-fungible tokens (NFTs).
 - [What is an NFT](https://www.youtube.com/watch?v=FkUn86bH34M)
 - [A Guide to NFTs](https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d)
 - [Nontechnical Explanation of ERC-721](https://fulldecent.blogspot.com/2018/06/nontechnical-what-is-erc-721.html)
-- [Intro to IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U) - Many NFTs store their metadata on IPFS
 - [Timeline of Early ETH NFTs](https://pbs.twimg.com/media/Fdrz-W9XkBIJhEv?format=jpg&name=4096x4096) by [Leonidas](https://twitter.com/LeonidasNFT/media)
+- [Intro to IPFS](https://www.youtube.com/watch?v=5Uj6uR3fp-U) - Many NFTs store their metadata on IPFS
 
 ## NFT Advanced
 
@@ -118,9 +115,3 @@ Detailed information about what is happening in crypto.
 - [Crypto Prices](https://www.coingecko.com/)
 - [NFT Prices and Data](https://www.flips.finance/)
 - [DeFi Data](https://defillama.com/)
-
-## Advanced Stats
-
-- [Staker Data](https://www.rated.network/?network=mainnet&view=entity)
-- [Client Distribution](https://clientdiversity.org/#distribution)
-- [MEV Boost](https://mevboost.pics/)
