@@ -31,7 +31,7 @@ Foundational knowledge on what Ethereum is and how it works.
 Beginner material on how to store your crypto and NFTs.
 
 - [MetaMask Download](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) - Don't keep a large amount of funds on MetaMask
-- [Ledger](https://shop.ledger.com/products/ledger-nano-s-plus) - HIGHLY recommended to buy a leger to keep funds safe
+- [Ledger](https://shop.ledger.com/products/ledger-nano-s-plus) - HIGHLY recommended to buy a Ledger to keep funds safe
 - [How to keep your crypto safe](https://www.ledger.com/academy/enter-the-trust-zone/crypto-how-to-keep-it-safe)
 - [What is a Seed Phrase/Recovery Phrase](https://www.ledger.com/academy/enter-the-trust-zone/why-the-twenty-four-words-phrase)
 - [What is a Seed Phrase/Recovery Phrase 2](https://www.nerdwallet.com/article/investing/seed-phrase)
